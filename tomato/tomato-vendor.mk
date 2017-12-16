@@ -387,4 +387,5 @@ PRODUCT_PACKAGES += \
     imscmlibrary \
     qcnvitems \
     qcrilhook \
-    rcsimssettings
+    rcsimssettings \
+    libaudioalsa
